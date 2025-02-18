@@ -6,7 +6,7 @@
   "homepage": "https://melisa7l.github.io/gastos/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/gastos/",
+    "build": "vite build --base=./",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
